@@ -1,0 +1,7 @@
+main{
+    min-height: calc(100vh - 160px);
+    background-color: #E52B50;
+    @include displayFlex;
+    text-align: center;
+    color: #7FFF00;
+}

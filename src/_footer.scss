@@ -1,0 +1,7 @@
+footer{
+    min-height: 100px;
+    background-color: #FFBF00;
+    font-size: 1.4rem;
+    text-align: center;
+    @include displayFlex;
+}
